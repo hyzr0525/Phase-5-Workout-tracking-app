@@ -6,10 +6,6 @@ GoSaiyan is a Dragon Ball theme health & fitness app that allows users to create
 
 ![Screenshot 2022-02-07 163450](https://user-images.githubusercontent.com/87879455/152884151-05e65a3c-df85-4322-bb19-39bac71579c6.png)
 
-![Screenshot 2022-02-07 163553](https://user-images.githubusercontent.com/87879455/152884172-1a9104b0-653a-4cd6-aaa8-542096c1fdaa.png)
-
-![Screenshot 2022-02-07 163811](https://user-images.githubusercontent.com/87879455/152884177-f0b57ca9-ea8a-4d4e-9190-9b02edb8efc4.png)
-
 
 # Main Features
 
@@ -35,6 +31,10 @@ GoSaiyan is a Dragon Ball theme health & fitness app that allows users to create
 <li>Add and delete exercises to a workout session
 <br/>
 <li>Add and update workout log to an exercises
+ 
+ ![Screenshot 2022-02-07 163553](https://user-images.githubusercontent.com/87879455/152884172-1a9104b0-653a-4cd6-aaa8-542096c1fdaa.png)
+ 
+ ![Screenshot 2022-02-07 163811](https://user-images.githubusercontent.com/87879455/152884177-f0b57ca9-ea8a-4d4e-9190-9b02edb8efc4.png)
  
 # Feature Updates
   
